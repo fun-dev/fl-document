@@ -1,0 +1,2 @@
+# fun-location-document
+ドキュメンテーションをします
