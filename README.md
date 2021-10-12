@@ -1,2 +1,12 @@
 # fun-location-document
 ドキュメンテーションをします
+
+
+fl := fun-location  
+FLAT := production name
+
+[コーディング規約 · beaconFUN/fl-document Wiki](https://github.com/beaconFUN/fl-document/wiki/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E8%A6%8F%E7%B4%84)
+
+[リポジトリ運用規約 · beaconFUN/fl-document Wiki](https://github.com/beaconFUN/fl-document/wiki/%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E9%81%8B%E7%94%A8%E8%A6%8F%E7%B4%84)
+
+[API document](http://34.68.157.198:8080/docs)
