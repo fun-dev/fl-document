@@ -15,4 +15,4 @@ FLAT := production name
 
 [FL デザイン (iOS) – Figma](https://www.figma.com/file/uTgiXS0fVIMK7npX6nwKYA/FL-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-(iOS))
 
-[テスト項目](https://docs.google.com/spreadsheets/d/1adkYHSHNXxmJgzb3wiNp7iNNNhyiTUNgDxfRn-TvvgA/edit?usp=sharing)
+[フロントエンドテスト項目](https://docs.google.com/spreadsheets/d/1adkYHSHNXxmJgzb3wiNp7iNNNhyiTUNgDxfRn-TvvgA/edit?usp=sharing)
